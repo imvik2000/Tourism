@@ -8,3 +8,8 @@
        Government requires an application through which we can search each and every famous 
        thing(i.e. famous place, food, fruit, handicraft, etc.) at each village/city.
        By having this information the tourists can easily visit the places.
+` python ./djangoBackend/manage.py runserver `
+
+` cd pathikk `
+
+` flutter run -d chrome --web-renderer html`
