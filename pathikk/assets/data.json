@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "category": 0,
+    "item": "Fort Jhant",
+    "location": 2,
+    "like": [
+      1
+    ],
+    "dislike": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "category": 1,
+    "item": "Ghewar",
+    "location": 2,
+    "like": [],
+    "dislike": []
+  },
+  {
+    "id": 3,
+    "category": 1,
+    "item": "Vada Paw",
+    "location": 3,
+    "like": [],
+    "dislike": []
+  },
+  {
+    "id": 4,
+    "category": 1,
+    "item": "Vada Paw",
+    "location": 3,
+    "like": [],
+    "dislike": []
+  },
+  {
+    "id": 5,
+    "category": 1,
+    "item": "Vada Paw",
+    "location": 3,
+    "like": [],
+    "dislike": []
+  }
+]
